@@ -4,5 +4,9 @@
     <string name="app_name">MobileTrack</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="title_activity_user_selection">UserSelection</string>
+    <string name="title_activity_child_app_detail">ChildAppDetail</string>
+    <string name="title_activity_chid_app_connectivity">ChidAppConnectivity</string>
+    <string name="title_activity_select_view_detail">SelectViewDetail</string>
 
 </resources>

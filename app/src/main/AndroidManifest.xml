@@ -16,6 +16,22 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".UserSelection"
+            android:label="@string/title_activity_user_selection" >
+        </activity>
+        <activity
+            android:name=".ChildAppDetail"
+            android:label="@string/title_activity_child_app_detail" >
+        </activity>
+        <activity
+            android:name=".ChidAppConnectivity"
+            android:label="@string/title_activity_chid_app_connectivity" >
+        </activity>
+        <activity
+            android:name=".SelectViewDetail"
+            android:label="@string/title_activity_select_view_detail" >
+        </activity>
     </application>
 
 </manifest>
